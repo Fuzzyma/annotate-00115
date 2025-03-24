@@ -1,0 +1,178 @@
+[
+  {
+    "species": "Dog",
+    "breed": "Labrador Retriever",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 12.5,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Dog",
+    "breed": "Chihuahua",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 12,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 12,
+    "laterPerYear": 4.5
+  },
+  {
+    "species": "Dog",
+    "breed": "Bulldog",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 10,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Dog",
+    "breed": "Poodle",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 12,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Cat",
+    "breed": "Domestic Shorthair",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 15,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Cat",
+    "breed": "Maine Coon",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 14,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Cat",
+    "breed": "Siamese",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 15,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Cat",
+    "breed": "Persian",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 15,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Cat",
+    "breed": "Bengal",
+    "firstPhaseYears": 2,
+    "firstPhaseValue": 14,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Rabbit",
+    "breed": "Netherland Dwarf",
+    "firstPhaseYears": 1,
+    "firstPhaseValue": 10,
+    "laterPerYear": 6
+  },
+  {
+    "species": "Rabbit",
+    "breed": "Holland Lop",
+    "firstPhaseYears": 1,
+    "firstPhaseValue": 9,
+    "laterPerYear": 5
+  },
+  {
+    "species": "Rabbit",
+    "breed": "Flemish Giant",
+    "firstPhaseYears": 1,
+    "firstPhaseValue": 8,
+    "laterPerYear": 4
+  },
+  {
+    "species": "Rabbit",
+    "breed": "Lionhead",
+    "firstPhaseYears": 1,
+    "firstPhaseValue": 10,
+    "laterPerYear": 6
+  },
+  {
+    "species": "Rabbit",
+    "breed": "Mini Rex",
+    "firstPhaseYears": 1,
+    "firstPhaseValue": 9,
+    "laterPerYear": 5
+  },
+  {
+    "species": "Horse",
+    "breed": "Thoroughbred",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 6.5,
+    "laterPerYear": 2.5
+  },
+  {
+    "species": "Horse",
+    "breed": "Arabian",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 6,
+    "laterPerYear": 2.5
+  },
+  {
+    "species": "Horse",
+    "breed": "Quarter Horse",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 6.5,
+    "laterPerYear": 2.5
+  },
+  {
+    "species": "Horse",
+    "breed": "Clydesdale",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 7,
+    "laterPerYear": 3
+  },
+  {
+    "species": "Horse",
+    "breed": "Friesian",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 6,
+    "laterPerYear": 2.5
+  },
+  {
+    "species": "Parrot",
+    "breed": "African Grey",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 5,
+    "laterPerYear": 2
+  },
+  {
+    "species": "Parrot",
+    "breed": "Budgerigar",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 4,
+    "laterPerYear": 1.5
+  },
+  {
+    "species": "Parrot",
+    "breed": "Cockatoo",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 5,
+    "laterPerYear": 2
+  },
+  {
+    "species": "Parrot",
+    "breed": "Macaw",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 5,
+    "laterPerYear": 2
+  },
+  {
+    "species": "Parrot",
+    "breed": "Amazon Parrot",
+    "firstPhaseYears": 3,
+    "firstPhaseValue": 4,
+    "laterPerYear": 1.8
+  }
+]
+
